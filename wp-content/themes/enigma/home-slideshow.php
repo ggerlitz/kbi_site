@@ -3,7 +3,7 @@
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
 	  <?php $wl_theme_options = weblizar_get_options(); $j=1;
-			for($i=1; $i<=4; $i++){  ?>
+			for($i=1; $i<=3; $i++){  ?>
 			<?php if($wl_theme_options['slide_image_'.$i]!='') { 
               			?>
         <div class="item <?php if($j==1) echo "active"; ?>">

@@ -41,7 +41,7 @@
 				<div class="col-md-6 col-sm-12">
 				<?php if($wl_theme_options['email_id'] || $wl_theme_options['phone_no'] !='') { ?>
 				<ul class="head-contact-info">
-						<?php if($wl_theme_options['email_id'] !='') { ?><li><i class="fa fa-envelope"></i><a href="mailto:<?php echo $wl_theme_options['email_id']; ?>"><?php echo esc_attr($wl_theme_options['email_id']); ?></a></li><?php } ?>
+						<?php if($wl_theme_options['email_id'] !='') { ?><li><i class="fa fa-envelope"></i><a href="mailto:<?php echo $wl_theme_options['email_id']; ?>"><?php echo esc_attr($wl_theme_options['email_id']); ?></a></li><br/><?php } ?>
 						<?php if($wl_theme_options['phone_no'] !='') { ?><li><i class="fa fa-phone"></i><a href="tel:<?php echo $wl_theme_options['phone_no']; ?>"><?php echo esc_attr($wl_theme_options['phone_no']); ?></a></li><?php } ?>
 				</ul>
 				<?php } ?>
@@ -75,7 +75,7 @@
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
 					 
-					  <span class="sr-only"><?php _e('Toggle navigation','weblizar');?></span>
+					  <span class="sr-only"><?php _e('Toggle navigation','enigma');?></span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>
 					  <span class="icon-bar"></span>

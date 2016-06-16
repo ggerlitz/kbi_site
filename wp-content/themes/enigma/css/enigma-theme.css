@@ -341,7 +341,7 @@ color: #999;
 	display: inline-block;
 }
 .breadcrumb li a{
-	color:#0B1728;
+	color:#31A3DD;
 }
 .breadcrumb > .active {
 	color: #000;
@@ -362,7 +362,7 @@ color: #999;
 	line-height: 30px;
 	color: #fff;
 	text-align: left;
-	background-color: #0B1728;
+	background-color: #31A3DD;
 	padding-left:20px;
 }
 
@@ -378,7 +378,7 @@ float:left;
 /* search btn css **/
 .btn-search{
 	color:#fff;
-	background:#0B1728;
+	background:#31A3DD;
 	border-radius:0px;
 	font-size: 14px;
 }
@@ -398,13 +398,13 @@ float:left;
 .nav-pills > li  > a{
 	background: #ffffff;
 	color: #3b3b3b;
-	border: 3px solid #0B1728;
+	border: 3px solid #31A3DD;
 	margin-right:15px;
 	margin-bottom:15px;
 	border-radius: 0px;
 	padding: 9px 27px;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #fff 50%, #0B1728 50%);
+    background-image: linear-gradient(to bottom, #fff 50%, #31A3DD 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -418,7 +418,7 @@ float:left;
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
 	color: #fff;
-	background-image: linear-gradient(to bottom, #0B1728 50%, #0B1728 50%);
+	background-image: linear-gradient(to bottom, #31A3DD 50%, #31A3DD 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -430,11 +430,11 @@ float:left;
 {
 	background: #ffffff;
 	color: #3b3b3b;
-	border: 3px solid #0B1728;
+	border: 3px solid #31A3DD;
 	margin-bottom:12px;
 	border-width:3px !important;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #fff 50%, #0B1728 50%);
+    background-image: linear-gradient(to bottom, #fff 50%, #31A3DD 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -449,7 +449,7 @@ background-position: 0 -100%;
 
 .nav-stacked > li.active > a, .nav-stacked > li.active > a:hover, .nav-stacked > li.active > a:focus {
 	color: #fff;
-	background-image: linear-gradient(to bottom, #0B1728 50%, #0B1728 50%);
+	background-image: linear-gradient(to bottom, #31A3DD 50%, #31A3DD 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -531,12 +531,12 @@ background-position: 0 -100%;
 	border-color: #ff8300;
 }
 .enigma_panel-blue {
-	border-color: #0B1728;
+	border-color: #31A3DD;
 }
 .enigma_panel-blue > .panel-heading {
 	color: #fff;
-	background-color: #0B1728;
-	border-color: #0B1728;
+	background-color: #31A3DD;
+	border-color: #31A3DD;
 }
 .enigma_panel-red {
 	border-color: #db2723;
